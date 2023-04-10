@@ -5,3 +5,5 @@ recommended.  If you prefer to use another app for programming, thats okay but m
 
 2: Install Python 3.  The installer can be found at (https://www.python.org/downloads/).  Click the big yellow button at the top and follow the steps to 
 install.  
+
+3: Download and open hello_world.py (in the main directory of this project).  See if you can figure out how to run it, but we will go over that in class!
