@@ -18,7 +18,7 @@ def main():
     # note that division has some weird behaivior, but we don't have time to go over it so if you're curious 
     # you can look up "integer division vs floating division python"
 
-    b = "hi there" # this scores the text "hi there" into 'b'
+    b = "hi there" # this stores the text "hi there" into 'b'
     print(b) # prints hi there
 
     if a == 1: # two equal signs check equality rather than assign a variable
